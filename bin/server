@@ -1,0 +1,2 @@
+#fires development server in node-dev mode
+./node_modules/node-dev/node-dev server.js
